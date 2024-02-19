@@ -2,7 +2,7 @@
 - 👀 I’m interested in DATA
 - 🌱 I’m currently learning DEEP LEARNING
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ..
 - 😄 Pronouns: ..
 - ⚡ Fun fact: ..
 
