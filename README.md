@@ -1,7 +1,7 @@
 - 👋 Hi, I’m NIKHIL BHOI
 - 👀 I’m interested in DATA
 - 🌱 I’m currently learning DEEP LEARNING
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ..
 - 😄 Pronouns: ..
 - ⚡ Fun fact: ..
