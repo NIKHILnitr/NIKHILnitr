@@ -1,10 +1,7 @@
 - 👋 Hi, I’m NIKHIL BHOI
 - 👀 I’m interested in DATA
-- 🌱 I’m currently learning DEEP LEARNING
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me .
-- 😄 Pronouns: .
-- ⚡ Fun fact: .
+- 🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.
+- 💬 Ask me about anything.
 
 <!---
 NIKHILnitr/NIKHILnitr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
