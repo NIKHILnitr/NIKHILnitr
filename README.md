@@ -1,4 +1,4 @@
-- 👋 Hi, I’m NIKHIL BHOI
+- 👋 Hi, I’m NIKHIL BHOI.
 - 👀 I’m interested in DATA
 - 🤔 Areas of Intrest: Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.
 - 💬 Ask me about anything.
